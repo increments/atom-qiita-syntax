@@ -1,7 +1,7 @@
 {
   "name": "qiita-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Qiita syntax theme for Atom",
   "keywords": [
     "syntax",
