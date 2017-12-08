@@ -324,6 +324,20 @@ atom-text-editor {
   }
 }
 
+.syntax--json {
+  &.syntax--value {
+    > .syntax--string {
+      color: @q-blue;
+    }
+  }
+
+  &.syntax--key {
+    > .syntax--string {
+      color: @q-primary;
+    }
+  }
+}
+
 .syntax--ruby {
   &.syntax--separator {
     color: @q-red;
